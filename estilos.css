@@ -1,0 +1,40 @@
+*{
+    background-color: rgb(46, 65, 151);
+    color: whitesmoke;
+}
+
+h1{
+    font-size: 2.5em;
+    letter-spacing: 0.5rem;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+.flotarDerecha{
+    float: right;
+}
+
+#imagen1{
+
+    float: left;
+    margin-left: 8%;
+    overflow: auto;
+}
+
+#imagen2{
+    margin-right: 30%;
+    overflow: auto;
+}
+
+
+.bloque1{
+    overflow: auto;
+    margin-right:  5%;
+}
+
+.bloque2{
+    overflow: auto;
+    margin-left:  20%;
+}
